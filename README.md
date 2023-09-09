@@ -1,4 +1,5 @@
-![Screenshot (1784)](https://github.com/MayankGhelani/UsabilityHub/assets/102246091/7aa4f87c-cd94-44ca-bef7-441e486016a9)
+![Screenshot (1788)](https://github.com/MayankGhelani/UsabilityHub/assets/102246091/5cb6cf6c-31db-4e0c-b45c-04d470cdde9e)
+
 # UsabilityHub
 UsabilityHub is a remote user research platform that takes the guesswork out of design decisions by validating them with real users.
 
